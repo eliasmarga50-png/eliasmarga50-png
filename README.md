@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**eliasmarga50-png/eliasmarga50-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Elias Marga 👋
 
-Here are some ideas to get you started:
+### Software Developer | AI Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical software solutions that solve real-world problems.
+Currently exploring AI, backend development, and scalable applications.
+
+### 🚀 About Me
+- 💻 Passionate about software engineering
+- 🤖 Building AI-powered applications
+- 🎓 University student and hackathon participant
+- 🌱 Continuously learning and growing
+- 🎯 Focused on creating impactful technology
+
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React, Flutter
+- Backend: Python, Django, Node.js, Express
+- Database: PostgreSQL, SQLite, MongoDB
+- Tools: Git, GitHub, VS Code
+
+### 📌 Featured Projects
+- AI Education Platform
+- AI E-commerce
+- Cine AI Video Editor
+- FreshExamNotes
+
+### 📫 Connect With Me
+- GitHub: https://github.com/eliasmarga50-png
