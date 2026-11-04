@@ -15,10 +15,10 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 AI-Powered Full-Stack Developer and Mobile Developer
+- 🤖 AI-Powered Full-Stack and Mobile App Developer
 - 🚀 Building intelligent web applications and AI-powered solutions
 - 🧠 Exploring Artificial Intelligence
-- 🎓 University student passionate about software engineering
+- 🎓 University student passionate about real systems
 - 🌱 Always learning, building, and improving
 - 🤝 Open to collaboration and innovative ideas
 
@@ -115,8 +115,8 @@
 
 ### ⚡ Always Learning • Always Building • Always Innovating
 
-*"The best way to predict the future is to invent it."*  
-— Alan Kay
+*"The best way to learn faster is just keep suffering."*  
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=footer"/>
 
