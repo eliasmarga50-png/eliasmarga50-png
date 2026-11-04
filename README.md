@@ -1,4 +1,3 @@
-
 <!-- ================= INTRODUCTION ================= -->
 
 <div align="center">
@@ -56,7 +55,7 @@
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmarga50-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="320" alt="Most used languages"/>
 
 </td>
 <td align="center">
@@ -68,20 +67,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eliasmarga50-png&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
-
-<br/>
-
-<img width="100%" src="https://ghchart.rshah.org/409ba5/eliasmarga50-png" alt="GitHub contribution calendar"/>
 
 </div>
 
@@ -115,8 +100,7 @@
 
 ### ⚡ Always Learning • Always Building • Always Innovating
 
-*"The best way to learn faster is just keep suffering."*  
-
+*"The best way to learn faster is just keep suffering."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=footer"/>
 
